@@ -22,3 +22,6 @@ desktop.ini
 # --- Büyük arşiv dosyaları ---
 *.zip
 *.rar
+# --- Sonuç görüntüleri (fundus görüntüsü içerdiği için yüklenmez) ---
+results/*
+!results/.gitkeep
