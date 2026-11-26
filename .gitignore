@@ -1,0 +1,24 @@
+# --- Veri seti (lisans ve boyut nedeniyle yüklenmez) ---
+data/*
+!data/README.md
+
+# --- Python'un otomatik oluşturduğu dosyalar ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# --- Sanal ortam (her bilgisayarda yeniden kurulur) ---
+.venv/
+
+# --- Gizli bilgiler (API anahtarı vb.) ---
+.env
+
+# --- İşletim sistemi ve editör dosyaları ---
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+
+# --- Büyük arşiv dosyaları ---
+*.zip
+*.rar
