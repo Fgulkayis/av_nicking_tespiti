@@ -25,3 +25,4 @@ desktop.ini
 # --- Sonuç görüntüleri (fundus görüntüsü içerdiği için yüklenmez) ---
 results/*
 !results/.gitkeep
+!results/model_degerlendirme_grafikleri.png
